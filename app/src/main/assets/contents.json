@@ -1,0 +1,424 @@
+{
+  "android_play_store_link": "",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "1",
+      "name": "Cuppy",
+      "publisher": "Jane Doe",
+      "tray_image_file": "tray_Cuppy.png",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "01_Cuppy_smile.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "02_Cuppy_lol.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "03_Cuppy_rofl.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "04_Cuppy_sad.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "05_Cuppy_cry.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "06_Cuppy_love.webp",
+          "emojis": ["😍","♥"]
+        },
+        {
+          "image_file": "07_Cuppy_hate.webp",
+          "emojis": ["💔","👎"]
+        },
+        {
+          "image_file": "08_Cuppy_lovewithmug.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "09_Cuppy_lovewithcookie.webp",
+          "emojis": ["😘","🍪"]
+        },
+        {
+          "image_file": "10_Cuppy_hmm.webp",
+          "emojis": ["🤔","😐"]
+        },
+        {
+          "image_file": "11_Cuppy_upset.webp",
+          "emojis": ["😱","😵"]
+        },
+        {
+          "image_file": "12_Cuppy_angry.webp",
+          "emojis": ["😡","😠"]
+        },
+        {
+          "image_file": "13_Cuppy_curious.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "14_Cuppy_weird.webp",
+          "emojis": ["🌈","😜"]
+        },
+        {
+          "image_file": "15_Cuppy_bluescreen.webp",
+          "emojis": ["💻","😩"]
+        },
+        {
+          "image_file": "16_Cuppy_angry.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "17_Cuppy_tired.webp",
+          "emojis": ["😩","😨"]
+        },
+        {
+          "image_file": "18_Cuppy_workhard.webp",
+          "emojis": ["💻","🌃"]
+        },
+        {
+          "image_file": "19_Cuppy_shine.webp",
+          "emojis": ["🎉","✨"]
+        },
+        {
+          "image_file": "20_Cuppy_disgusting.webp",
+          "emojis": ["🤮","👎"]
+        },
+        {
+          "image_file": "21_Cuppy_hi.webp",
+          "emojis": ["🖐","🙋"]
+        },
+        {
+          "image_file": "22_Cuppy_bye.webp",
+          "emojis": ["🖐","👋"]
+        },
+        {
+          "image_file": "23_Cuppy_greentea.webp",
+          "emojis": ["🍵","😌"]
+        },
+        {
+          "image_file": "24_Cuppy_phone.webp",
+          "emojis": ["📱","😦"]
+        },
+        {
+          "image_file": "25_Cuppy_battery.webp",
+          "emojis": ["🔋","😵"]
+        }
+      ]
+    },
+    {
+      "identifier": "2",
+      "name": "Local",
+      "publisher": "Kavetech",
+      "tray_image_file": "o.jpg",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"kavetechsolutions@gmail.com",
+      "publisher_website": "http://google.com",
+      "privacy_policy_website": "http://google.com",
+      "license_agreement_website": "http://google.com",
+      "stickers": [
+        {
+          "image_file": "a.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "c.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "d.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "e.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "f.webp",
+          "emojis": ["😍","♥"]
+        },
+        {
+          "image_file": "g.webp",
+          "emojis": ["💔","👎"]
+        },
+        {
+          "image_file": "h.webp",
+          "emojis": ["😍","💑"]
+        }
+      ]
+    },
+    {
+      "identifier": "3",
+      "name": "Funnily",
+      "publisher": "Kavetech",
+      "tray_image_file": "nn.jpg",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"kavetechsolutions@gmail.com",
+      "publisher_website": "http://google.com",
+      "privacy_policy_website": "http://google.com",
+      "license_agreement_website": "http://google.com",
+      "stickers": [
+        {
+          "image_file": "g3.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "g6.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "g12.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "kk.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "mm.webp",
+          "emojis": ["😍","♥"]
+        },
+        {
+          "image_file": "n.webp",
+          "emojis": ["💔","👎"]
+        },
+        {
+          "image_file": "nn.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "pp.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "qq.webp",
+          "emojis": ["😍","💑"]
+        }
+      ]
+    },
+    {
+      "identifier": "4",
+      "name": "Funny",
+      "publisher": "Kavetech",
+      "tray_image_file": "gg.jpg",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"kavetechsolutions@gmail.com",
+      "publisher_website": "http://google.com",
+      "privacy_policy_website": "http://google.com",
+      "license_agreement_website": "http://google.com",
+      "stickers": [
+        {
+          "image_file": "gg.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "i.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "ii.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "g7.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "g9.webp",
+          "emojis": ["😍","♥"]
+        },
+        {
+          "image_file": "g16.webp",
+          "emojis": ["💔","👎"]
+        },
+        {
+          "image_file": "g18.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "large.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "ll.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "ss.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "zz.webp",
+          "emojis": ["😍","💑"]
+        }
+      ]
+    },
+    {
+      "identifier": "5",
+      "name": "Pop",
+      "publisher": "Kavetech",
+      "tray_image_file": "tory.jpg",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"kavetechsolutions@gmail.com",
+      "publisher_website": "http://google.com",
+      "privacy_policy_website": "http://google.com",
+      "license_agreement_website": "http://google.com",
+      "stickers": [
+        {
+          "image_file": "copy.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "g1.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "g8.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "g15.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "g20.webp",
+          "emojis": ["😍","♥"]
+        },
+        {
+          "image_file": "g21.webp",
+          "emojis": ["💔","👎"]
+        },
+        {
+          "image_file": "tt.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "ty.webp",
+          "emojis": ["😍","💑"]
+        }
+      ]
+    },
+    {
+      "identifier": "6",
+      "name": "Morty",
+      "publisher": "Kavetech",
+      "tray_image_file": "images.jpeg",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"kavetechsolutions@gmail.com",
+      "publisher_website": "http://google.com",
+      "privacy_policy_website": "http://google.com",
+      "license_agreement_website": "http://google.com",
+      "stickers": [
+        {
+          "image_file": "back.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "bakcs.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "caveman.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "evil.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "ff.webp",
+          "emojis": ["😍","♥"]
+        },
+        {
+          "image_file": "images.webp",
+          "emojis": ["💔","👎"]
+        },
+        {
+          "image_file": "krabs.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "morty.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "patrickstar.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "rick.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "stonks.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "tired.webp",
+          "emojis": ["😍","💑"]
+        }
+      ]
+    },
+    {
+      "identifier": "7",
+      "name": "Sport",
+      "publisher": "Kavetech",
+      "tray_image_file": "aa.jpg",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"kavetechsolutions@gmail.com",
+      "publisher_website": "http://google.com",
+      "privacy_policy_website": "http://google.com",
+      "license_agreement_website": "http://google.com",
+      "stickers": [
+        {
+          "image_file": "aa.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "g2.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "g4.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "g11.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "g13.webp",
+          "emojis": ["😍","♥"]
+        },
+        {
+          "image_file": "g17.webp",
+          "emojis": ["💔","👎"]
+        },
+        {
+          "image_file": "j.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "k.webp",
+          "emojis": ["😍","💑"]
+        }
+      ]
+    }
+  ]
+}
