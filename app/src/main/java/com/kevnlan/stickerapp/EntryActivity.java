@@ -50,7 +50,7 @@ public class EntryActivity extends BaseActivity {
 
         });
 
-        showAd();
+//        showAd();
 
         overridePendingTransition(0, 0);
         if (getSupportActionBar() != null) {
@@ -61,13 +61,12 @@ public class EntryActivity extends BaseActivity {
         loadListAsyncTask.execute();
     }
 
-    public static void showAd(){
-        if (mInterstitialAd.isLoaded()) mInterstitialAd.show();
-        else {
-            mInterstitialAd.loadAd(new AdRequest.Builder().build());
-        }
-
-    }
+//    public static void showAd(){
+//        if (mInterstitialAd.isLoaded()) mInterstitialAd.show();
+//        else {
+//            mInterstitialAd.loadAd(new AdRequest.Builder().build());
+//        }
+//    }
 
 
     private void showStickerPack(ArrayList<StickerPack> stickerPackList) {

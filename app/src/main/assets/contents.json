@@ -119,7 +119,7 @@
     {
       "identifier": "2",
       "name": "Local",
-      "publisher": "Kavetech",
+      "publisher": "Kevnlan",
       "tray_image_file": "o.jpg",
       "image_data_version":"1",
       "avoid_cache":false,
@@ -161,7 +161,7 @@
     {
       "identifier": "3",
       "name": "Funnily",
-      "publisher": "Kavetech",
+      "publisher": "Kevnlan",
       "tray_image_file": "nn.jpg",
       "image_data_version":"1",
       "avoid_cache":false,
@@ -211,7 +211,7 @@
     {
       "identifier": "4",
       "name": "Funny",
-      "publisher": "Kavetech",
+      "publisher": "Kevnlan",
       "tray_image_file": "gg.jpg",
       "image_data_version":"1",
       "avoid_cache":false,
@@ -269,7 +269,7 @@
     {
       "identifier": "5",
       "name": "Pop",
-      "publisher": "Kavetech",
+      "publisher": "Kevnlan",
       "tray_image_file": "tory.jpg",
       "image_data_version":"1",
       "avoid_cache":false,
@@ -315,7 +315,7 @@
     {
       "identifier": "6",
       "name": "Morty",
-      "publisher": "Kavetech",
+      "publisher": "Kevnlan",
       "tray_image_file": "images.jpeg",
       "image_data_version":"1",
       "avoid_cache":false,
@@ -377,7 +377,7 @@
     {
       "identifier": "7",
       "name": "Sport",
-      "publisher": "Kavetech",
+      "publisher": "Kevnlan",
       "tray_image_file": "aa.jpg",
       "image_data_version":"1",
       "avoid_cache":false,
